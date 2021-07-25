@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- OBS-Profiles: @BUILD_FLAVOR@ -->
-<image schemaversion="7.2" name="openSUSE-MicroOS" displayname="openSUSE MicroOS">
+<image schemaversion="7.2" name="kubic-images" displayname="Kubic Images">
     <description type="system">
-        <author>openSUSE Project</author>
-        <contact>opensuse-factory@opensuse.org</contact>
+        <author>Anthony Rabbito</author>
+        <contact>hello@anthonyrabbito.com</contact>
         <specification>openSUSE MicroOS</specification>
     </description>
     <profiles>
