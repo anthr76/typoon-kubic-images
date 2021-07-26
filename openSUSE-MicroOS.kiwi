@@ -682,8 +682,8 @@
     <packages type="image" profiles="ContainerHost">
         <namedCollection name="container_runtime"/>
         <package name="patterns-containers-container_runtime"/>
-        <namedCollection name="microos_apparmor"/>
-        <package name="patterns-microos-apparmor"/>
+        <namedCollection name="microos_selinux"/>
+        <package name="patterns-microos-selinux"/>
     </packages>
     <packages type="image" profiles="k3s">
         <package name="k3s"/>
